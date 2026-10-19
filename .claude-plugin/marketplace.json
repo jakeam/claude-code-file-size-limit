@@ -1,0 +1,8 @@
+{
+  "name": "file-size-limit",
+  "owner": { "name": "jakeam" },
+  "metadata": { "description": "Keeps files under 5,000 tokens for Claude Code." },
+  "plugins": [
+    { "name": "file-size-limit", "source": "./", "description": "Blocks files over 5,000 tokens and tells Claude how to split them." }
+  ]
+}

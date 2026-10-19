@@ -1,0 +1,6 @@
+{
+  "name": "file-size-limit",
+  "version": "0.1.0",
+  "description": "Blocks files over 5,000 tokens after edits and before commits, and tells Claude how to split them.",
+  "author": { "name": "jakeam" }
+}
